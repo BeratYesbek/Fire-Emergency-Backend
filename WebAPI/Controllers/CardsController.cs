@@ -7,5 +7,6 @@ namespace WebAPI.Controllers
     [ApiController]
     public class CardsController : ControllerBase
     {
+
     }
 }
