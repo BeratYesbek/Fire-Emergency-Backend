@@ -11,6 +11,6 @@ namespace WebAPI.Data
         }
 
         public DbSet<User>? Users { get; set; }
-        public DbSet<Card>? Cards { get; set; }
+        public DbSet<ElectronicCard>? ElectronicCards { get; set; }
     }
 }
